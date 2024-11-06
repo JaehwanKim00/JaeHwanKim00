@@ -1,3 +1,12 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=JaeHwan's%20Github&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+</div>
+   
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -44,6 +53,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaehwanKim00&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaehwanKim00&layout=compact)
+
+
+</div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.instagram.com/w0ghks_o0/profilecard/?igsh=anJ0NWdlajdjbjIw> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/w0ghks_o0/profilecard/?igsh=anJ0NWdlajdjbjIw"> </a>
+         <a href=https://www.notion.so/7c8325899efd456ea0f785df6b19158b?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/7c8325899efd456ea0f785df6b19158b?pvs=4"> </a>
+         <a href=mailto:kjhrkawk0329@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjhrkawk0329@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+</div>
+
+
+
+
+ 
 
 
 
