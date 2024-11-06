@@ -55,14 +55,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaehwanKim00&layout=compact)
 
 
-</div>
-    <div style="text-align: center;">
+<div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/w0ghks_o0/profilecard/?igsh=anJ0NWdlajdjbjIw> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/w0ghks_o0/profilecard/?igsh=anJ0NWdlajdjbjIw"> </a>
-         <a href=https://www.notion.so/7c8325899efd456ea0f785df6b19158b?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/7c8325899efd456ea0f785df6b19158b?pvs=4"> </a>
-         <a href=mailto:kjhrkawk0329@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjhrkawk0329@gmail.com"> </a>
-          </div>  <br> 
-
+    <div style="display: inline-block; text-align: center;"> 
+        <a href="https://www.instagram.com/w0ghks_o0/profilecard/?igsh=anJ0NWdlajdjbjIw">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/w0ghks_o0/profilecard/?igsh=anJ0NWdlajdjbjIw"> 
+        </a>
+        <a href="https://www.notion.so/7c8325899efd456ea0f785df6b19158b?pvs=4">
+            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/7c8325899efd456ea0f785df6b19158b?pvs=4"> 
+        </a>
+        <a href="mailto:kjhrkawk0329@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjhrkawk0329@gmail.com"> 
+        </a>
+    </div>  
+    <br> 
 </div>
 
 
