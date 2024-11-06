@@ -1,5 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaehwanKim00)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaehwanKim00)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaehwanKim00&hide=contribs,prs&show_icons=true&theme=테마)
 
 <!--
 **JaehwanKim00/JaeHwanKim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
